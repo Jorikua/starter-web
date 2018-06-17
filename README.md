@@ -15,3 +15,7 @@ Repeat and learn new specific parts of git
 Kak dela
 
 ## How to contribute
+
+### Copyright
+
+2014 Git.Training
