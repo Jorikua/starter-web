@@ -8,6 +8,10 @@ Privet
 
 ## Purpose
 
+Repeat and learn new specific parts of git
+
 ## Deployment
+
+Kak dela
 
 ## How to contribute
