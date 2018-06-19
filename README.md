@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple project for git purpose.
+Adding more text.
 
 ## Introduction
 
