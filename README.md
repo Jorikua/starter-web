@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple project for git purpose.
-Adding more text, then more changes from myfeature branch too.
+Emergency fix after stash.
 
 ## Introduction
 
